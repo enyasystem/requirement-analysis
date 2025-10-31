@@ -29,3 +29,27 @@ Requirement Analysis plays a vital role in the Software Development Life Cycle (
 5. **Supports Validation and Testing**
    - Testers rely on well-documented requirements to design test cases and verify that the software meets all specified needs.
 
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several structured activities that help ensure a clear understanding of user and system needs. Below are the five key activities:
+
+- **1. Requirement Gathering**
+  - This involves collecting information from stakeholders, users, and customers to understand what they need from the system.  
+  - Techniques such as interviews, surveys, and brainstorming sessions are often used.
+
+- **2. Requirement Elicitation**
+  - Elicitation focuses on extracting detailed requirements through interactive communication with stakeholders.  
+  - It goes beyond gathering by exploring *why* certain features or behaviors are needed.
+
+- **3. Requirement Documentation**
+  - All gathered and elicited requirements are documented in a structured format, usually in a Software Requirement Specification (SRS) document.  
+  - This serves as a reference point for designers, developers, and testers throughout the project.
+
+- **4. Requirement Analysis and Modeling**
+  - In this phase, the documented requirements are analyzed for clarity, completeness, consistency, and feasibility.  
+  - Models such as use case diagrams, data flow diagrams (DFD), and entity-relationship diagrams (ERD) are often used to visualize requirements.
+
+- **5. Requirement Validation**
+  - This step ensures that all documented requirements truly reflect what stakeholders need and are technically achievable.  
+  - Validation helps detect errors or gaps early before development begins.
+
